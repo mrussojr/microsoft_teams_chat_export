@@ -10,3 +10,6 @@ Usage:
  Installation:
     Chrome: Create a bookmark with a location of pasted text with "javascript: " prepended to it
     Firefox: Create a bookmark with a location of "javascript:(function(){<PASTE_CODE_HERE>})();" replacing <PASTE_CODE_HERE> with fulltext of chat_export.js
+    
+ Customization:
+    Users can customize the color of selected messages and the color of hovered messages.  Add rgba values at the beginning of the script for selectedColor and hoverColor.
